@@ -24,5 +24,5 @@ Once the installation is done
  # npm start
 
 
- Resources
+ Resources:
  https://react-bootstrap.netlify.app/docs/getting-started/introduction
