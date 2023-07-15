@@ -1,7 +1,7 @@
 # venture-connect
 
-Folder Structure
-  venture-connect
+ 
+# venture-connect structure
        # |___________ venture-connect-ui 
        # |____________venture-connect-services 
 
