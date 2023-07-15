@@ -2,10 +2,10 @@
 
  
 # venture-connect structure
-       # |___________ venture-connect-ui 
-       # |____________venture-connect-services 
+         |___________ venture-connect-ui 
+         |____________venture-connect-services 
 
-venture-connect-ui -Installaton
+# venture-connect-ui -Installaton
 
 Clone the repo
 
