@@ -22,3 +22,7 @@ Incase of dependency conflicts perform the following command
 Once the installation is done 
 
  # npm start
+
+
+ Resources
+ https://react-bootstrap.netlify.app/docs/getting-started/introduction
