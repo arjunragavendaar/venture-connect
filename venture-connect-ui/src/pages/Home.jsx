@@ -30,7 +30,7 @@ return  (
     <Button className="mb-3" variant="outline-dark" style={{width:"20%",display:"block",borderRadius:"35px",marginLeft:"40%"}}>
         Get Started
       </Button>
-<img src="/home.png"  ></img>
+<img src="/home_1.png"  ></img>
 
     </Stack>
   </div>
