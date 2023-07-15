@@ -1,9 +1,9 @@
 # venture-connect
 
 Folder Structure
-venture-connect
-       |___________ venture-connect-ui 
-       |____________venture-connect-services 
+# venture-connect
+       # |___________ venture-connect-ui 
+       # |____________venture-connect-services 
 
 venture-connect-ui -Installaton
 
