@@ -2,6 +2,7 @@
 
  
 # venture-connect structure
+         |____________venture-connect-ui-v2.0 (next+react+tsx+jsx)
          |___________ venture-connect-ui 
          |____________venture-connect-services 
 
