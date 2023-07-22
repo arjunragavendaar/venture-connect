@@ -14,7 +14,7 @@ Make sure you have node and npm manager installed
 
 Go inside venture-connect-ui-v2.0 folder
 
-# Have updated node version (Atleast >=16.0.0, preferred latest node stable version)
+# Have updated node version (Atleast >=16.0.0, preferably latest node stable version)
 
 # npm install
 
