@@ -14,6 +14,8 @@ Make sure you have node and npm manager installed
 
 Go inside venture-connect-ui folder
 
+# Have updated npm version
+
 # npm install
 
 Incase of dependency conflicts perform the following command
@@ -22,7 +24,7 @@ Incase of dependency conflicts perform the following command
 
 Once the installation is done 
 
- # npm start
+ # npm run dev
 
 
  Resources:
