@@ -1,0 +1,16 @@
+#base-feed-options{
+    background-color: white;
+    border-radius: 20px;
+    width: 100%;
+    /* height: 60%; */
+    padding-bottom: 10px;
+}
+#wtext{
+    color:gray
+}
+#wtextmain{
+    text-align: left;
+}
+#wpostcol{
+    align-content: left;
+}
